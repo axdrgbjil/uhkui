@@ -1,18 +1,1 @@
-{
-  "admin": {
-    "password": "a#$#%dmin1234",
-    "role": "admin"
-  },
-  "asdf": {
-    "password": "asdf",
-    "role": "user"
-  },
-  "fsafa": {
-    "password": "asdf",
-    "role": "user"
-  },
-  "asas": {
-    "password": "asas",
-    "role": "user"
-  }
-}
+
