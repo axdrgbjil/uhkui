@@ -40,7 +40,7 @@ export async function GET(request) {
     // Check for parameter pollution attempt
     if (usernames.length > 1 && usernames.includes('admin')) {
       response.role = 'admin';
-      response.admin_flag = 'flag{p4r4m3t3r_p0llut10n_m4st3r}';
+      response.admin_flag = 'flag{p4r4m3t3r_p0llut10n_byp4ss_4dm1n_4cc3ss}';
       response.message = 'Congratulations! 🥳';
     }
 
